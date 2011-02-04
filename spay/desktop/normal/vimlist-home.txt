@@ -1,0 +1,2 @@
+"/home/gisanfu/git/fast-change-dir/NOTE.mkd"
+"/home/gisanfu/git/fast-change-dir/abc-3.sh"
