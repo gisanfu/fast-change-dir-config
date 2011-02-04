@@ -1,2 +1,0 @@
-root,~
-desktop,~/桌面
