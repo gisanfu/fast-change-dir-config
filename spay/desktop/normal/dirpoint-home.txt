@@ -1,2 +1,11 @@
 root,~
 desktop,~/桌面
+skype,~/桌面
+download_firefox,~/download_firefox
+fast,~/gisanfu/fast-change-dir
+fc,~/gisanfu/fast-change-dir-config/spay/desktop/normal
+git,~/git
+gt,~/git
+hg,~/hg
+svn,~/svn
+sn,~/svn

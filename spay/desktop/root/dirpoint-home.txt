@@ -1,2 +1,7 @@
 root,~
-desktop,~/桌面
+fast,~/gisanfu/fast-change-dir
+fc,~/gisanfu/fast-change-dir-config/spay/desktop/root
+init,/etc/init.d
+log,/var/log
+http,/etc/apache2
+html,/var/www/html
