@@ -5,3 +5,9 @@ init,/etc/init.d
 log,/var/log
 http,/etc/apache2
 html,/var/www/html
+pgsqletc,/etc/postgresql
+pgsqldata,/var/lib/postgresql/8.4/main
+pgsqllib,/usr/lib/postgresql/8.4/lib
+pgsqlbin,/usr/lib/postgresql/8.4/bin
+pgsql9,/usr/local/pgsql903
+9pgsql,/usr/local/pgsql903

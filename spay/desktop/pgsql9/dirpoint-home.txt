@@ -1,0 +1,4 @@
+root,~
+fast,~/gisanfu/fast-change-dir
+fc,~/gisanfu/fast-change-dir-config/spay/desktop/pgsql9
+pgsql,/usr/local/pgsql903
