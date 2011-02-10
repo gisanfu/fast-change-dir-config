@@ -9,3 +9,4 @@ gt,~/git
 hg,~/hg
 svn,~/svn
 sn,~/svn
+drop,~/Dropbox

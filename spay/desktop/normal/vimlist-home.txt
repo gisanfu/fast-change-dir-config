@@ -1,0 +1,4 @@
+"/home/gisanfu/gisanfu/fast-change-dir-config/spay/desktop/normal/groupname.txt"
+"/home/gisanfu/gisanfu/fast-change-dir-config/spay/desktop/normal/dirpoint-emy.txt"
+"/home/gisanfu/hg/altivix/trunk/tools/gisanfu-dirpoint-altivix.txt"
+"/home/gisanfu/hg/7fu/misc/gisanfu-dirpoint-7fu.txt"
