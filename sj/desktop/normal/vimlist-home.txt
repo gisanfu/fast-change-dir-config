@@ -1,1 +1,5 @@
 "/home/gisanfu/git/fast-change-dir/IDEA"
+"/home/gisanfu/git/fast-change-dir/abc-3.sh"
+"/home/gisanfu/git/fast-change-dir/bashrc.txt"
+"/home/gisanfu/git/fast-change-dir/dirpoint.sh"
+"/home/gisanfu/gisanfu/fast-change-dir-config/sj/desktop/normal/nopath.txt"
