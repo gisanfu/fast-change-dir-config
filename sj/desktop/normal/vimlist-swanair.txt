@@ -1,0 +1,2 @@
+"/home/gisanfu/hg/swanair/app/third_party/index.html"
+"/home/gisanfu/hg/swanair/.hg/hgrc"
