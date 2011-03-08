@@ -1,0 +1,9 @@
+root,~/hg/swanair
+sql,~/hg/swanair/sql
+misc,~/hg/swanair/misc
+study,~/hg/swanair/study
+controller,~/hg/swanair/app/controllers
+helper,~/hg/swanair/app/helpers
+library,~/hg/swanair/app/libraries
+model,~/hg/swanair/app/models
+view,~/hg/swanair/app/views
