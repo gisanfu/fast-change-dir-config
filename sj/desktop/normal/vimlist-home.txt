@@ -1,5 +1,2 @@
-"/home/gisanfu/hg/sj_misc/work_note_by_day.txt"
-"/home/gisanfu/hg/seho/study/database.txt"
-"/home/gisanfu/hg/seho/app/views/testmodelfunc.php"
-"/home/gisanfu/hg/seho/app/controllers/testmodelfunc.php"
-"/home/gisanfu/hg/seho/study/helper_form.txt"
+"/home/gisanfu/hg/pahsco/apps/view/www/news.php"
+"/home/gisanfu/hg/pahsco/libs/class/mysql.class.php"

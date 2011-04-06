@@ -1,0 +1,4 @@
+"/home/gisanfu/hg/sjwww_default/tpl/default/html/productcompare.html"
+"/home/gisanfu/hg/sjwww_default/apps/view/www/productcompare.php"
+"/home/gisanfu/hg/sjwww_default/apps/controller/www/ajax/add_compare.php"
+"/home/gisanfu/hg/sjwww_default/tpl/default/html/product.html"
