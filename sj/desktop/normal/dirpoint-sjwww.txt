@@ -3,3 +3,4 @@ controller,~/hg/sjwww_default/apps/controller/www
 ajax,~/hg/sjwww_default/apps/controller/www/ajax
 view,~/hg/sjwww_default/apps/view/www
 tpl,~/hg/sjwww_default/tpl/default
+html,~/hg/sjwww_default/tpl/default/html

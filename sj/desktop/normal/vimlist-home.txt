@@ -1,2 +1,4 @@
 "/home/gisanfu/hg/pahsco/apps/view/www/news.php"
 "/home/gisanfu/hg/pahsco/libs/class/mysql.class.php"
+"/home/gisanfu/hg/altivix/trunk/application/modules/new/views/scripts/support/index.phtml"
+"/home/gisanfu/hg/altivix/trunk/library/Altivix/view/Helper/Jvalidate.php"
