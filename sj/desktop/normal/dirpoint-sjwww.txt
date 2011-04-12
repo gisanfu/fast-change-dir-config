@@ -4,3 +4,5 @@ ajax,~/hg/sjwww_default/apps/controller/www/ajax
 view,~/hg/sjwww_default/apps/view/www
 tpl,~/hg/sjwww_default/tpl/default
 html,~/hg/sjwww_default/tpl/default/html
+js,~/hg/sjwww_default/tpl/default/js
+css,~/hg/sjwww_default/tpl/default/css
