@@ -1,6 +1,2 @@
-"/home/gisanfu/hg/pahsco/apps/view/www/news.php"
-"/home/gisanfu/hg/pahsco/libs/class/mysql.class.php"
-"/home/gisanfu/hg/altivix/trunk/application/modules/new/views/scripts/support/index.phtml"
-"/home/gisanfu/hg/altivix/trunk/library/Altivix/view/Helper/Jvalidate.php"
-"/home/gisanfu/gisanfu/fast-change-dir-config/sj/desktop/normal/dirpoint-sjwww.txt"
-"/home/gisanfu/gisanfu/fast-change-dir-config/sj/desktop/normal/vimlist-sjwww.txt"
+"/home/gisanfu/hg/sjwww_default/libs/functions.php"
+"/home/gisanfu/hg/sjwww_default/libs/phpthumb/phpthumb.class.php"
