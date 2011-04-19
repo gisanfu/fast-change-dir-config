@@ -1,2 +1,3 @@
-"/home/gisanfu/hg/sjwww_default/libs/functions.php"
-"/home/gisanfu/hg/sjwww_default/libs/phpthumb/phpthumb.class.php"
+"/home/gisanfu/.bashrc"
+"/home/gisanfu/gisanfu/fast-change-dir/dirpoint.sh"
+"/home/gisanfu/gisanfu/fast-change-dir/groupname.sh"

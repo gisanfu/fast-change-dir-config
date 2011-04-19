@@ -1,7 +1,0 @@
-"/home/gisanfu/hg/sjwww_default/tpl/default/js/manager/pen.js"
-"/home/gisanfu/hg/sjwww_default/tpl/default/html/manager/top_image.html"
-"/home/gisanfu/hg/sjwww_default/tpl/default/html/manager/top_textarea.html"
-"/home/gisanfu/hg/sjwww_default/tpl/default/js/manager/image.js"
-"/home/gisanfu/hg/sjwww_default/tpl/default/css/manager/default.css"
-"/home/gisanfu/hg/sjwww_default/tpl/default/html/product.html"
-"/home/gisanfu/hg/sjwww_default/config/image_size.php"
