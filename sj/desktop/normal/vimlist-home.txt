@@ -1,3 +1,0 @@
-"/home/gisanfu/.bashrc"
-"/home/gisanfu/gisanfu/fast-change-dir/dirpoint.sh"
-"/home/gisanfu/gisanfu/fast-change-dir/groupname.sh"
