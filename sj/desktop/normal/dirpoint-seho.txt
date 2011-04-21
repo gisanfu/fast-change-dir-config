@@ -1,9 +1,0 @@
-root,~/hg/seho
-sql,~/hg/seho/sql
-misc,~/hg/seho/misc
-study,~/hg/seho/study
-controller,~/hg/seho/app/controllers
-helper,~/hg/seho/app/helpers
-library,~/hg/seho/app/libraries
-model,~/hg/seho/app/models
-view,~/hg/seho/app/views
