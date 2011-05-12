@@ -1,0 +1,4 @@
+"/home/gisanfu/gisanfu/fast-change-dir/config/config.sh"
+"/home/gisanfu/gisanfu/fast-change-dir/abc-4.sh"
+"/home/gisanfu/gisanfu/fast-change-dir/lib/func/normal.sh"
+"/home/gisanfu/gisanfu/fast-change-dir-config/sj/desktop/normal/config.sh"
