@@ -1,9 +1,4 @@
 home
-swanair
-seho
-sjadmin
-sjwww
-sjwww2
 sjbase
 sjcloudweb
 sjcloudwebadmin
