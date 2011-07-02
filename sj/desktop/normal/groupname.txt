@@ -4,3 +4,4 @@ sjbase
 sjcloudweb
 sjcloudweb_v2
 sjcloudwebadmin
+codegen_v2
