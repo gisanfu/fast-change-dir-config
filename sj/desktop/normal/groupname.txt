@@ -5,5 +5,8 @@ sjbase
 sjcloudweb
 sjcloudweb_v2
 sjcloudwebadmin
+sjcloudweb_css
 shautoparts
 codegen_v2
+tablegenerate
+tablegenerate2

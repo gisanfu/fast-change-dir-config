@@ -1,0 +1,3 @@
+"/home/gisanfu/hg/sj_misc/work_2011.txt"
+"/home/gisanfu/hg/tablegenerate/misc/idea.txt"
+"/home/gisanfu/hg/tablegenerate/misc/test.class.php"
