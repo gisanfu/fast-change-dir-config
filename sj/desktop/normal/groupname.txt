@@ -10,3 +10,4 @@ shautoparts
 codegen_v2
 tablegenerate
 tablegenerate2
+chatroom
